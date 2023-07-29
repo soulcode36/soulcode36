@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=soulcode36&theme=transparent)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soulcode36&theme=transparent&column=4&margin-w=5&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=soulcode36&theme=algolia&column=4&margin-w=5&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
