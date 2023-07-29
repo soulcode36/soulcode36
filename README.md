@@ -16,6 +16,8 @@
 <hr>
 
 
+<h3> Git Stats </h3>
+
 <!--
 **soulcode36/soulcode36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
