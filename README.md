@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=soulcode36.soulcode36&format=true)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=soulcode36.visitor-badge)
 
 ### Hi there 👋
 
