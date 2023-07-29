@@ -14,7 +14,6 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,postman,firebase,supabase,c,cpp,java,python)](https://skillicons.dev)
 
 <hr>
-<img scr = "https://png.pngtree.com/png-clipart/20190516/original/pngtree-linkedin-icon-png-image_3547995.jpg">
 
 
 <!--
