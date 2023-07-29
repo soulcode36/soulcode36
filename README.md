@@ -1,4 +1,4 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=soulcode36.soulcode36&left_color=grey&right_color=blue&left text=Profile%20Visitors)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=soulcode36.soulcode36&left_color=grey&right_color=blue&left_text=Profile%20Visitors)
 
 ### Hi there 👋
 
