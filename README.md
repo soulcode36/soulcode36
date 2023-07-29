@@ -6,6 +6,14 @@
 - 🔭 I’m currently working as a Flutter Developer
 
 
+
+<h3> Skills </h3>
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,postman)](https://skillicons.dev)
+
+
 <!--
 **soulcode36/soulcode36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
