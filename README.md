@@ -1,3 +1,5 @@
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=soulcode36.soulcode36&format=true)
+
 ### Hi there 👋
 
 - 👋 I'm Satyam Kumar Jha 
