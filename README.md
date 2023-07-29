@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=soulcode36&theme=radical)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soulcode36&theme=onedark&column=2&margin-w=5&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=soulcode36&theme=onedark&column=4&margin-w=5&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **soulcode36/soulcode36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
