@@ -9,7 +9,7 @@
 
 <h3> Skills </h3>
 
-<br>
+<hr>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,flutter,dart,postman)](https://skillicons.dev)
 
