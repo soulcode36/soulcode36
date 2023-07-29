@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Breadcrumbssoulcode36)](https://git.io/streak-stats)
 <!--
 **soulcode36/soulcode36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
