@@ -11,7 +11,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,postman,firebase,supabase,restapi,c,cpp,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,flutter,dart,postman,firebase,supabase,riverpod,c,cpp,java,python)](https://skillicons.dev)
 
 <hr>
 
