@@ -17,7 +17,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulcode36&show_icons=true&theme=transparent)
 
 
- <a href= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soulcode36&theme=github_dark"></a> 
+
+[![](https://raw.githubusercontent.com/soulcode36/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/0-profile-details.svg)](https://github.com/soulcode36/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/soulcode36/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/1-repos-per-language.svg)](https://github.com/soulcode36/github-profile-summary-cards) [![](https://raw.githubusercontent.com/soulcode36/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/2-most-commit-language.svg)](https://github.com/soulcode36/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/soulcode36/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/3-stats.svg)](https://github.com/soulcode36/github-profile-summary-cards) [![](https://raw.githubusercontent.com/soulcode36/github-profile-summary-cards-example/master/profile-summary-card-output/apprentice/4-productive-time.svg)](https://github.com/soulcode36/github-profile-summary-cards)
+
 
 
 
