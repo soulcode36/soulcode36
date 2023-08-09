@@ -17,7 +17,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulcode36&show_icons=true&theme=transparent)
 
 
-<p align="left"> <a href= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soulcode36&theme=github_dark"></a> </p>
+ <a href= "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soulcode36&theme=github_dark"></a> 
 
 
 
