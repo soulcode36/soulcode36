@@ -5,6 +5,7 @@
 
 - 👋 I'm Satyam Kumar Jha 
 - 🔭 I’m currently working as a Flutter Developer
+-   Trying to learn Web development
 
 
 
